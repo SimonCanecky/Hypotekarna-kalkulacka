@@ -1,4 +1,4 @@
-# Hypotekarna-kalkulacka
+# Hypotekárna kalkulačka
 
 - Cieľom zadania je naprogramovať zjednodušenú hypotekárnu kalkulačku. 
 - Vstupné parametre hypotéky zadá používateľ na štandardný vstup (z klávesnice). 
